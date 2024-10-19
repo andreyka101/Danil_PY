@@ -1,93 +1,98 @@
 # создание и вывод переменной
-num = 5
-print(num)
-num = 6 + num
-print(num)
-print(2, 4, 8)
+# num = 5
+# print(num)
+# num = 6 + num
+# print(num)
+# print(2, 4, 8)
 
 
 # типы данных
-print("int = " , 4)
-print("float = " , 3.0)
-print("bool = " , True,False)
-print("str = " , 'hello',"5")
+# print("int = " , 4)
+# print("float = " , 3.0)
+# print("bool = " , True,False)
+# print("str = " , 'hello',"5")
+# print("None = ")
 
 
 # арифметические операторы
-print("2 + 2 =", 2 + 2)
-print("2 - 2 =",2 - 2)
-print("2 / 2 =",2 / 2)
-print("2 * 2 =",2 * 3)
-print("2 ** 2 =",2 ** 3)
+# print("2 + 2 =", 2 + 2)
+# print("2 - 2 =",2 - 2)
+# print("2 * 2 =",2 * 3)
+# print("2 ** 2 =",2 ** 3)
+# print("10 / 3 =",10 / 3)
+# print("10 // 3 =",10 // 3)
+# print("10 % 3 =",10 % 3)
 
 
 # использование скобо
-num_2 = 4 * (2 + 3)
-print(num_2)
+# num_2 = 4 * (2 + 3)
+# print(num_2)
 
 
 
 # пример названия переменных
-int_num = 8
-print(int_num)
+# int_num = 8
+# print(int_num)
 
-qw4er = 8
-print(qw4er)
+# intNum = 8
+# print(intNum)
 
-intNum = 8
-print(intNum)
+# qw4er = 8
+# print(qw4er)
+
 
 
 
 # вывод тип переменной
-num_3 = 7
-print(type(num_3))
-num_3 = "7"
-print(type(num_3))
+# num_3 = 7
+# print(type(num_3))
+# num_3 = "7"
+# print(type(num_3))
 
-print("type int = " , type(4))
-print("type float = " , type(3.0))
-print("type bool = " , type(True))
-print("type str = " , type('hello'))
+# print("type int = " , type(4))
+# print("type float = " , type(3.0))
+# print("type bool = " , type(True))
+# print("type str = " , type('hello'))
 
 
 
 # умножение строки
-str_int = "5"
-print(str_int * 3)
-print(type(str_int))
+# str_int = "5"
+# print(str_int * 3)
+# print(type(str_int))
+# print("---------------")
 # преобразование строки в число 
-str_int = int(str_int)
+# str_int = int(str_int)
 # умножение числа
-print(str_int * 3)
-print(type(str_int))
+# print(str_int * 3)
+# print(type(str_int))
 
 
 # преобразование float в int
-num_flo_int = 7.9
-print(int(num_flo_int))
+# num_flo_int = 7.9
+# print(int(num_flo_int))
 
 
 # примеры преобразования
-num_bool = True
-print(int(num_bool))
-num_bool = str(num_bool)
-print(num_bool)
-print(type(num_bool))
+# num_bool = True
+# print(int(num_bool))
+# num_bool = str(num_bool)
+# print(num_bool)
+# print(type(num_bool))
 
-str_num = True
-str_num = str(str_num)
-print(str_num)
-print(type(str_num))
+# str_num = True
+# str_num = str(str_num)
+# print(str_num)
+# print(type(str_num))
 
 
 # ввод данных
 # input() - возвращает строку
-num_inp = int(input("введите int__"))
+# num_inp = int(input("введите int__"))
 # num_inp = int(num_inp)
-print("num_inp = ", num_inp * 4)
+# print("num_inp = ", num_inp * 4)
 
-print(float("y"))
+# print(float("y"))
 
 
 
