@@ -1,19 +1,5 @@
-# str_num = "hello world"
-# print(str_num)
-# print(str_num[6])
 
-
-# str_num = str_num + "45U5"
-# print(str_num)
-
-
-# print(str_num * 3)
-
-
-# print(str_num.find("w"))
-
-
-
+# умножение строки
 # str_int = "5"
 # print(str_int * 3)
 # print(type(str_int))
@@ -26,6 +12,7 @@
 
 
 
+# преобразовываем из типа float в тип int
 # num_1 = 5.8
 # print(num_1)
 # print(type(num_1))
@@ -36,12 +23,14 @@
 
 
 
+# ввод данных
 # num_3 = input()
 # print("ok")
 # print("num_3 = ", num_3)
 
 
 
+# ввод данных и преобразование в число
 num_4 = input("ввод ==")
 print("ok")
 print("num_3 = ", num_4)
